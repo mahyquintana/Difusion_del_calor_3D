@@ -1,7 +1,7 @@
 ##Descripción:
 
 Este código simula la difusión del calor en 3D, además, guarda todos los
-valores intermedios un fichero y permite su representación gráfica. El 
+valores intermedios en un fichero y permite su representación gráfica. El 
 objetivo principal de este proyecto es aprender a usar netcdf y hdf5.
 
 
