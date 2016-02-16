@@ -1,7 +1,3 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Difusión del calor 3D}
-
 ##Descripción:
 
 Este código simula la difusión del calor en 3D, además, guarda todos los
@@ -45,8 +41,4 @@ objetivo principal de este proyecto es aprender a usar netcdf y hdf5.
     Ejecución automática de muestra: make run
     Limpiar archivos creados al compilar y ejecutar: make clean
 
-
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
  
